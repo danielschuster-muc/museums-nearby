@@ -1,1 +1,2 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+# Museums Nearby
+## Simple Rails App that shows you nearby museums by given longitude and latitude using the [mapbox api](https://docs.mapbox.com/api/search/geocoding/).
